@@ -1,0 +1,19 @@
+.celdas {
+    border: 3px solid #AEA7A7;
+    background-color: #8C7F7F;
+    padding: 3px;
+    margin: 4px;
+}
+
+.contenedor1 {
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+    text-align: center;
+}
+
+.contenedor {
+    width: 678px;
+    height: 186px;
+    border: 1px solid #000000;
+}
